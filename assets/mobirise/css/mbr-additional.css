@@ -5644,6 +5644,7 @@ body {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
+  background: linear-gradient(45deg, #ffffff, #7510ff);
 }
 .cid-rquulygw9n .mbr-section-subtitle {
   color: #767676;
@@ -10417,11 +10418,6 @@ body {
   .cid-rqMCDI2UMw .card:not(.last-child) {
     padding-bottom: 1.5rem;
   }
-}
-.cid-rr8FRZvAPI {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
 }
 .cid-rqMCEmCdGY {
   padding-top: 90px;
