@@ -4009,7 +4009,7 @@ section.lazy-placeholder:after {
   color: #232323;
 }
 .cid-rqufIhNr3a {
-  background-image: url("../../../assets/images/background12.jpg");
+  background-image: url("../../../assets/images/background14.jpg");
 }
 .cid-rqufIhNr3a .icons-media-container {
   display: flex;
@@ -8574,6 +8574,8 @@ section.lazy-placeholder:after {
   color: #149dcc !important;
 }
 .cid-rquGvGje14 {
+  padding-top: 135px;
+  padding-bottom: 105px;
   background-image: url("../../../assets/images/background4.jpg");
 }
 .cid-rquGvGje14 .form-control,
@@ -8585,7 +8587,7 @@ section.lazy-placeholder:after {
   transition: all .2s;
   border: 1px solid #ffffff;
   padding: 1rem;
-  background: linear-gradient(#7510ff, #55b4d4);
+  background: linear-gradient(#cccccc, #cccccc);
   border: none;
 }
 .cid-rquGvGje14 textarea.form-control {
@@ -8600,117 +8602,67 @@ section.lazy-placeholder:after {
     padding-right: 5rem;
   }
 }
-.cid-rrpnYA5iun {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
-}
-.cid-rrpnYA5iun .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rrpnYA5iun .container-table {
-  margin: 0 auto;
-}
-.cid-rrpnYA5iun .scroll {
-  overflow-x: auto;
-  padding: 0;
-}
-.cid-rrpnYA5iun .dataTables_wrapper {
-  display: block;
-}
-.cid-rrpnYA5iun .dataTables_wrapper .search {
-  margin-bottom: .5rem;
-}
-.cid-rrpnYA5iun .dataTables_wrapper .table {
-  overflow-x: auto;
-}
-.cid-rrpnYA5iun table {
-  width: 100% !important;
-  margin-top: 6px;
-  border: 1px solid #cccccc;
-  margin-bottom: 0;
-}
-.cid-rrpnYA5iun table th {
-  border-top: none;
-  transition: all .2s;
-  border-bottom: none;
-}
-.cid-rrpnYA5iun table th:hover {
-  background: #cccccc;
-  color: #000000;
-}
-.cid-rrpnYA5iun table td {
-  border-top: 1px solid #cccccc;
-}
-.cid-rrpnYA5iun table.table {
-  background: #ffffff;
-}
-.cid-rrpnYA5iun .dataTables_filter {
+.cid-rquGvGje14 .mbr-text,
+.cid-rquGvGje14 .mbr-section-btn {
   text-align: right;
-  margin-bottom: .5rem;
 }
-.cid-rrpnYA5iun .dataTables_filter label {
-  display: inline;
-  white-space: normal !important;
+.cid-rquGvGje14 H1 {
+  text-align: right;
 }
-.cid-rrpnYA5iun .dataTables_filter input {
-  display: inline;
-  width: auto;
-  margin-left: .5rem;
-  border-radius: 100px;
-  padding-left: 1rem;
-}
-.cid-rrpnYA5iun .dataTables_info {
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-  white-space: normal !important;
-}
-@media (max-width: 992px) {
-  .cid-rrpnYA5iun .dataTables_filter {
-    text-align: center;
-  }
-}
-@media (max-width: 350px) {
-  .cid-rrpnYA5iun .dataTables_filter {
-    text-align: center;
-  }
-  .cid-rrpnYA5iun .dataTables_filter input {
-    width: 100% !important;
-    margin-left: 0 !important;
-  }
-}
-.cid-rquHx35uiB {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-rUWa0ITK1s {
+  padding-top: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-rquHx35uiB .title {
+.cid-rUWa0ITK1s .mbr-section-subtitle {
+  color: #2e2e2e;
+}
+.cid-rUVZ0Tjopp {
+  padding-top: 15px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rUVZ0Tjopp .mbr-text {
+  color: #2e2e2e;
+}
+.cid-rUVZ0Tjopp .mbr-text p {
+  background: #ffffff;
+}
+.cid-rUVZ0Tjopp .mbr-text P {
+  text-align: left;
+}
+.cid-rUWbFTkV3r {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rUWbFTkV3r .title {
   padding-bottom: 2.5rem;
 }
-.cid-rquHx35uiB .mbr-text {
+.cid-rUWbFTkV3r .mbr-text {
   color: #767676;
   margin: 0;
   padding-top: 0.5rem;
 }
-.cid-rquHx35uiB .iconfont-wrapper {
+.cid-rUWbFTkV3r .iconfont-wrapper {
   display: flex;
   align-items: center;
-  width: 2rem;
-  height: 2rem;
+  width: 1.8rem;
+  height: 1.8rem;
   margin-right: 2rem;
 }
-.cid-rquHx35uiB .iconfont-wrapper .amp-iconfont {
-  font-size: 2rem;
+.cid-rUWbFTkV3r .iconfont-wrapper .amp-iconfont {
+  font-size: 1.8rem;
 }
-.cid-rquHx35uiB .wrapper {
+.cid-rUWbFTkV3r .wrapper {
   display: flex;
   padding: 1rem 0;
 }
-.cid-rquHx35uiB .wrapper .b-info {
+.cid-rUWbFTkV3r .wrapper .b-info {
   width: 100%;
 }
 @media (max-width: 767px) {
-  .cid-rquHx35uiB .iconfont-wrapper {
+  .cid-rUWbFTkV3r .iconfont-wrapper {
     display: none;
   }
 }
