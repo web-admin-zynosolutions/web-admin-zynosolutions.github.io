@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Zyno Solutions V2",
-    "currentPage": "Training Videos.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -12662,20 +12662,20 @@
                 "tags": "Z-800 Training Videos",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201956-1041272019-5-4-11-45-45.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=kyRg-rUr2l4&feature=youtu.be",
+                "videoUrl": "https://www.youtube.com/watch?v=kyRg-rUr2l4",
                 "image": "@THEME_PATH@/components/_images/background2.jpg",
                 "thumb": "@THEME_PATH@/components/_images/background2.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "How to Setup Continuous Mode (R/V) For Z-800",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Z-800 Training Videos",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201956-1041272019-5-4-11-45-59.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=V2rzLepqXFc&feature=youtu.be",
+                "videoUrl": "https://www.youtube.com/watch?v=V2rzLepqXFc",
                 "image": "@THEME_PATH@/components/_images/background3.jpg",
                 "thumb": "@THEME_PATH@/components/_images/background3.jpg",
                 "alt": "",
@@ -12688,59 +12688,59 @@
                 "tags": "Z-800 Training Videos",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201956-1041272019-5-4-11-49-10.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=lB74cF1QDoo&feature=youtu.be",
+                "videoUrl": "https://www.youtube.com/watch?v=lB74cF1QDoo",
                 "image": "@THEME_PATH@/components/_images/background4.jpg",
                 "thumb": "@THEME_PATH@/components/_images/background4.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "How to Clear Infusion&nbsp;For Z-800",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Z-800 Training Videos",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201956-1041272019-5-4-11-49-34.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=pwQvEv6PEAw&feature=youtu.be",
+                "videoUrl": "https://www.youtube.com/watch?v=pwQvEv6PEAw",
                 "image": "@THEME_PATH@/components/_images/background5.jpg",
                 "thumb": "@THEME_PATH@/components/_images/background5.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "How to Setup 10 Step Mode&nbsp;For Z-800<br>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Z-800 Training Videos",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201956-1041272019-5-4-11-49-50.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=J2lN1E5ZGfA&feature=youtu.be",
+                "videoUrl": "https://www.youtube.com/watch?v=J2lN1E5ZGfA",
                 "image": "@THEME_PATH@/components/_images/background6.jpg",
                 "thumb": "@THEME_PATH@/components/_images/background6.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "How to Save a Protocol&nbsp;For Z-800",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Z-800 Training Videos",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201956-1041272019-5-4-11-50-11.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=u3NREtNwi6Q&feature=youtu.be",
+                "videoUrl": "https://www.youtube.com/watch?v=u3NREtNwi6Q",
                 "image": "@THEME_PATH@/components/_images/background7.jpg",
                 "thumb": "@THEME_PATH@/components/_images/background7.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "How to Lock the Keypad&nbsp;For Z-800<br>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Z-800 Training Videos",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise201956-1041272019-5-4-11-50-36.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=7TCXwjUuc1M&feature=youtu.be",
+                "videoUrl": "https://www.youtube.com/watch?v=7TCXwjUuc1M",
                 "image": "@THEME_PATH@/components/_images/background8.jpg",
                 "thumb": "@THEME_PATH@/components/_images/background8.jpg",
                 "alt": "",
@@ -14963,7 +14963,7 @@
             }
           },
           "_name": "footer1",
-          "_customHTML": "<section group=\"Footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->  \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Copyright\" name=\"showCopyright\" checked>\n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"0\">0</option>\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected>2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value>\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row content text-white\">\n            <div class=\"col-12 col-md-3\">\n                <div class=\"media-wrap\">\n                    <a href=\"index.html\">\n                        <img src=\"@PROJECT_PATH@/assets/images/zyno-no-tag-white-208x810.png\" alt=\"Mobirise\" title>\n                    </a>\n                </div>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">\n                    Navigation</h5>\n                <p class=\"mbr-text\"><a href=\"index.html\">Home</a><br><a href=\"AboutUs.html\">About Us</a><br><a href=\"Training Videos.html\">Training Videos</a><br><a href=\"Brochures.html\">Brochures</a><br><a href=\"Catalogs.html\">Catalogs</a><br><a href=\"News and Events.html\">News and Events</a><br><a href=\"Contact Us.html\">Contact Us</a></p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">\n                    Products</h5>\n                <p class=\"mbr-text\"><a href=\"Z-800series.html\">Z-800 Series</a><br><a href=\"ZynoFLO.html\">ZynoFlo</a><br><a href=\"Nimbus™ II Flex.html\">Nimbus™ II Flex</a><br><a href=\"page13.html\">Nimbus™ II EMS<br></a><br></p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">\n                    Sets and Accessories</h5>\n                <p class=\"mbr-text\"><a href=\"Nimbus™ II Flex Administration Set.html\">Nimbus™ II Flex Sets</a><br><a href=\"Z-800 Series IV Administration Set.html\">Z-800 Series IV Sets</a><br><a href=\"Z-800 Series Accessories.html\">Z-800 Series Accessories</a></p>\n            </div>\n        </div>\n        <div class=\"footer-lower\" mbr-if=\"showCopyright\">\n            <div class=\"media-container-row\">\n                <div class=\"col-sm-12\">\n                    <hr>\n                </div>\n            </div>\n            <div class=\"media-container-row mbr-white\">\n                <div class=\"col-sm-6 copyright\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".copyright > p\">\n                        © 2019 Zyno Solutions, LLC All Rights Reserved\n                    </p>\n                </div>\n                <div class=\"col-md-6\">\n                    <div class=\"social-list align-right\" mbr-if=\"iconsCount > 0\">\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>0\">\n                            <a href=\"https://www.youtube.com/channel/UCZC1dWtkoj9-pXfVdCriQrQ\" target=\"_blank\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-youtube socicon\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>1\">\n                            <a href=\"https://www.linkedin.com/company/zyno-solutions-llc-ma/\" target=\"_blank\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-linkedin socicon\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>2\">\n                            <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-youtube socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>3\">\n                            <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-instagram socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>4\">\n                            <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-googleplus socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>5\">\n                            <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-behance socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->  \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Copyright\" name=\"showCopyright\" checked>\n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"0\">0</option>\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected>2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value>\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row content text-white\">\n            <div class=\"col-12 col-md-3\">\n                <div class=\"media-wrap\">\n                    <a href=\"index.html\">\n                        <img src=\"@PROJECT_PATH@/assets/images/zyno-no-tag-white-208x812.png\" alt=\"Mobirise\" title>\n                    </a>\n                </div>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">\n                    Navigation</h5>\n                <p class=\"mbr-text\"><a href=\"index.html\">Home</a><br><a href=\"AboutUs.html\">About Us</a><br><a href=\"Training Videos.html\">Training Videos</a><br><a href=\"Brochures.html\">Brochures</a><br><a href=\"Catalogs.html\">Catalogs</a><br><a href=\"News and Events.html\">News and Events</a><br><a href=\"Contact Us.html\">Contact Us</a></p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">\n                    Products</h5>\n                <p class=\"mbr-text\"><a href=\"Z-800series.html\">Z-800 Series</a><br><a href=\"ZynoFLO.html\">ZynoFlo</a><br><a href=\"Nimbus™ II Flex.html\">Nimbus™ II Flex</a><br><a href=\"page13.html\">Nimbus™ II EMS<br></a><br></p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">\n                    Sets and Accessories</h5>\n                <p class=\"mbr-text\"><a href=\"Nimbus™ II Flex Administration Set.html\">Nimbus™ II Flex Sets</a><br><a href=\"Z-800 Series IV Administration Set.html\">Z-800 Series IV Sets</a><br><a href=\"Z-800 Series Accessories.html\">Z-800 Series Accessories</a></p>\n            </div>\n        </div>\n        <div class=\"footer-lower\" mbr-if=\"showCopyright\">\n            <div class=\"media-container-row\">\n                <div class=\"col-sm-12\">\n                    <hr>\n                </div>\n            </div>\n            <div class=\"media-container-row mbr-white\">\n                <div class=\"col-sm-6 copyright\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".copyright > p\">\n                        © 2019 Zyno Solutions, LLC All Rights Reserved\n                    </p>\n                </div>\n                <div class=\"col-md-6\">\n                    <div class=\"social-list align-right\" mbr-if=\"iconsCount > 0\">\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>0\">\n                            <a href=\"https://www.youtube.com/channel/UCZC1dWtkoj9-pXfVdCriQrQ\" target=\"_blank\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-youtube socicon\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>1\">\n                            <a href=\"https://www.linkedin.com/company/zyno-solutions-llc-ma/\" target=\"_blank\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-linkedin socicon\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>2\">\n                            <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-youtube socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>3\">\n                            <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-instagram socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>4\">\n                            <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-googleplus socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>5\">\n                            <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-behance socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "footer1-a2",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
