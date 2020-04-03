@@ -1778,41 +1778,27 @@ section.lazy-placeholder:after {
 .cid-rUstCT0U28 .btn {
   margin: 0 0 .5rem 0;
 }
-.cid-rpsA9ZzJYP {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-color: #55b4d4;
-  background: linear-gradient(45deg, #55b4d4, #efefef);
+.cid-rV6moNoOVl {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/zynosol-landingpage2.png");
 }
-.cid-rpsA9ZzJYP .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
+.cid-rV6moNoOVl h1 {
+  color: #616161;
 }
-@media (min-width: 992px) {
-  .cid-rpsA9ZzJYP .mbr-figure {
-    padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
-  }
+.cid-rV6moNoOVl h2,
+.cid-rV6moNoOVl h3,
+.cid-rV6moNoOVl p {
+  color: #767676;
 }
-@media (max-width: 991px) {
-  .cid-rpsA9ZzJYP .mbr-figure {
-    padding-bottom: 3rem;
-  }
+.cid-rV6moNoOVl .mbr-section-subtitle {
+  font-style: italic;
 }
-@media (max-width: 767px) {
-  .cid-rpsA9ZzJYP .mbr-text {
-    text-align: center;
-  }
-}
-.cid-rpsA9ZzJYP H1 {
+.cid-rV6moNoOVl H1 {
   color: #073b4c;
 }
-.cid-rpsA9ZzJYP DIV {
-  color: #6731ff;
-}
-.cid-rpsA9ZzJYP .mbr-text,
-.cid-rpsA9ZzJYP .mbr-section-btn {
+.cid-rV6moNoOVl .mbr-text,
+.cid-rV6moNoOVl .mbr-section-btn {
   color: #073b4c;
 }
 .cid-rpOnTuqqex {
@@ -1821,15 +1807,15 @@ section.lazy-placeholder:after {
   background-color: #ffffff;
 }
 .cid-rpOnTuqqex .line {
-  background-color: #6731ff;
-  color: #6731ff;
+  background-color: #2e2e2e;
+  color: #2e2e2e;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
 .cid-rpOnTuqqex .section-text {
   padding: 2rem 0;
-  color: #0c5cd4;
+  color: #2e2e2e;
 }
 .cid-rpOnTuqqex .inner-container {
   margin: 0 auto;
@@ -4009,7 +3995,7 @@ section.lazy-placeholder:after {
   color: #232323;
 }
 .cid-rqufIhNr3a {
-  background-image: url("../../../assets/images/background13.jpg");
+  background-image: url("../../../assets/images/background15.jpg");
 }
 .cid-rqufIhNr3a .icons-media-container {
   display: flex;
