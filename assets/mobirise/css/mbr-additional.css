@@ -8567,44 +8567,6 @@ section.lazy-placeholder:after {
 .cid-rquGvGje14 H1 {
   text-align: right;
 }
-.cid-sqrmhT7cy4 {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-color: #ffffff;
-}
-.cid-sqrmhT7cy4 .content-wrapper {
-  background: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-sqrmhT7cy4 .content-wrapper .row {
-    flex-direction: column-reverse;
-  }
-  .cid-sqrmhT7cy4 .content-wrapper .image-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-sqrmhT7cy4 .content-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-sqrmhT7cy4 .content-wrapper {
-    padding: 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-sqrmhT7cy4 .content-wrapper {
-    padding: 5rem 3rem;
-  }
-  .cid-sqrmhT7cy4 .content-wrapper .text-wrapper {
-    padding-right: 2rem;
-  }
-}
-.cid-sqrmhT7cy4 .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
-}
 .cid-rUWbFTkV3r {
   padding-top: 45px;
   padding-bottom: 30px;
