@@ -11794,7 +11794,10 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Training Videos",
-        "order": 5
+        "order": 5,
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
       },
       "components": [
         {
