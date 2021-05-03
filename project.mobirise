@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Zyno Solutions V2",
-    "currentPage": "page19.html",
+    "currentPage": "nimbus-patient-help.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -15584,7 +15584,7 @@
         }
       ]
     },
-    "page19.html": {
+    "nimbus-patient-help.html": {
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Nimbus Patient Help Guide",
