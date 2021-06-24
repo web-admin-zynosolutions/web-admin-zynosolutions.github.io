@@ -1,0 +1,6 @@
+<Files https://zynosolutions.com/assets/Html_Nimbus/index.html>
+AuthType Basic
+AuthName "Authentication Required"
+AuthUserFile /srv/users/SYSUSER/apps/APPNAME/public/.htpasswd
+Require valid-user
+</Files>
