@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Password Protected Area"
+AuthUserFile /assets/Html_Nimbus/.htpasswd
+Require valid-user
