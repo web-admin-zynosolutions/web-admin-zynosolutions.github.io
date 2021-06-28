@@ -90,7 +90,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "cookiesAlert": false,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "imageResize": false,
     "cssOptimize": false,
     "lazyLoad": false,
