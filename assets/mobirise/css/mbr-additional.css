@@ -13604,6 +13604,18 @@ section.lazy-placeholder:after {
 .cid-sr6jvxOD8J .dropdown-item:hover {
   color: #149dcc !important;
 }
+#custom-html-c6 {
+  /* Type valid CSS here */
+}
+#custom-html-c6 div {
+  padding: 200px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-c6 p {
+  font-size: 60px;
+  color: #777;
+}
 .cid-sBhmw3qM7S {
   padding-top: 60px;
   padding-bottom: 60px;
