@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Password Protected Area"
-AuthUserFile web-admin-zynosolutions.github.io/assets/Html_Nimbus/.htpasswd
-Require valid-user
